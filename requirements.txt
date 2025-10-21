@@ -1,0 +1,26 @@
+# Core deep learning framework
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Numerical computing
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Training monitoring
+tensorboard>=2.13.0
+tqdm>=4.65.0
+
+# Configuration management
+pyyaml>=6.0
+
+# Development tools
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Jupyter support (optional, for notebooks)
+jupyter>=1.0.0
+ipykernel>=6.25.0
